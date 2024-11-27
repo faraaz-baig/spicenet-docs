@@ -2,7 +2,7 @@
 icon: hand-wave
 ---
 
-# Welcome to Spicenet - Future of DeFi
+# Spicenet: Engineering the Future of DeFi
 
 As traders and builders in both traditional finance and crypto markets, we've experienced firsthand the challenges that come with decentralised trading. While blockchain technology promised to revolutionise finance, current decentralised exchanges still struggle with fundamental limitations: slow execution times, fragmented liquidity, and an inability to support sophisticated trading strategies.
 

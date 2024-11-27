@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Spicenet - Future of DeFi](README.md)
+* [Spicenet: Engineering the Future of DeFi](README.md)
 
 ## 1. Understanding Trading
 
