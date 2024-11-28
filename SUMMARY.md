@@ -12,11 +12,11 @@
   * [1.2.4 Clearing and Settlement](1.-understanding-trading/1.2-modern-market-and-its-mechanics/1.2.4-clearing-and-settlement.md)
   * [1.2.5 Market Surveillance and Compliance](1.-understanding-trading/1.2-modern-market-and-its-mechanics/1.2.5-market-surveillance-and-compliance.md)
 * [1.3 The Crypto Currency Revolution & CEXs](1.-understanding-trading/1.3-the-crypto-currency-revolution-and-cexs.md)
-* [1.4 The Rise of DEXs and DeFi](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi.md)
-* [1.5 Automated Market Makers (AMMs): Breakthrough In Decentralised Trading](1.-understanding-trading/1.5-automated-market-makers-amms-breakthrough-in-decentralised-trading/README.md)
-  * [1.5.1 AMM Mechanics: Earning, Liquidity, and Price Discovery](1.-understanding-trading/1.5-automated-market-makers-amms-breakthrough-in-decentralised-trading/1.5.1-amm-mechanics-earning-liquidity-and-price-discovery.md)
-  * [1.5.2 The Path to Spicenet: Understanding AMM Limitations](1.-understanding-trading/1.5-automated-market-makers-amms-breakthrough-in-decentralised-trading/1.5.2-the-path-to-spicenet-understanding-amm-limitations.md)
+* [1.4 The Rise of DEXs and DeFi](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/README.md)
+  * [1.4.1 Automated Market Makers (AMMs): Breakthrough In Decentralised Trading](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/1.4.1-automated-market-makers-amms-breakthrough-in-decentralised-trading.md)
+  * [1.4.2 AMM Mechanics: Earning, Liquidity, and Price Discovery](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/1.4.2-amm-mechanics-earning-liquidity-and-price-discovery.md)
+  * [1.4.3 The Path to Spicenet: Understanding AMM Limitations](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/1.4.3-the-path-to-spicenet-understanding-amm-limitations.md)
 
-## Group 1
+## The Spicenet
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](the-spicenet/page-1.md)
