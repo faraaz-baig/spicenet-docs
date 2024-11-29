@@ -17,6 +17,6 @@
   * [1.4.2 AMM Mechanics: Earning, Liquidity, and Price Discovery](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/1.4.2-amm-mechanics-earning-liquidity-and-price-discovery.md)
   * [1.4.3 The Path to Spicenet: Understanding AMM Limitations](1.-understanding-trading/1.4-the-rise-of-dexs-and-defi/1.4.3-the-path-to-spicenet-understanding-amm-limitations.md)
 
-## The Spicenet
+## 2. The Spicenet
 
-* [Page 1](the-spicenet/page-1.md)
+* [2.1 Understanding Spicenet: A Next-Generation Exchange Protocol](2.-the-spicenet/2.1-understanding-spicenet-a-next-generation-exchange-protocol.md)
