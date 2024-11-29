@@ -20,3 +20,5 @@
 ## 2. The Spicenet
 
 * [2.1 Understanding Spicenet: A Next-Generation Exchange Protocol](2.-the-spicenet/2.1-understanding-spicenet-a-next-generation-exchange-protocol.md)
+* [2.2 Why Sovereign Rollups Transform Trading: A Deeper Look](2.-the-spicenet/2.2-why-sovereign-rollups-transform-trading-a-deeper-look.md)
+* [2.3 Spicenet's Architecture](2.-the-spicenet/2.3-spicenets-architecture.md)
