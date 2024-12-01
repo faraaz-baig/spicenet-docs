@@ -1,5 +1,21 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/image.avif
+coverY: 198.59722222222223
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Spicenet: Engineering the Future of DeFi
